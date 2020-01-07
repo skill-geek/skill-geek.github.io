@@ -1,0 +1,25 @@
+.back_top,.bg-gradient,.home-bg,.btn-gradient,.features_border,.in_features,.bg-features{	
+    background: #0e377d;
+    background: -webkit-linear-gradient(left,#0e377d 0,#26d3b6 100%);
+    background: linear-gradient(to right,#0e377d 0,#26d3b6 100%);
+}
+
+.section_title_icon,
+.btn-gradient:hover,
+.btn-gradient:focus,
+.btn-gradient:active,
+.btn-gradient.active,
+.btn-gradient.focus,
+.btn-gradient:active,
+.btn-gradient:focus,
+.btn-gradient:hover,
+.open>.dropdown-toggle.btn-gradient,
+.features_one .features_list .features_list_icon i,
+.work_icon i,.work_process .work_box .work_left::after,
+.work_process .work_box .work_right::after,
+.about_boxes .about_icon i,
+.features_one .features_icon {
+    background: #26d3b6;
+    background: -webkit-linear-gradient(left,#26d3b6 0,#0e377d 100%);
+    background: linear-gradient(to right,#26d3b6 0,#0e377d 100%);
+}

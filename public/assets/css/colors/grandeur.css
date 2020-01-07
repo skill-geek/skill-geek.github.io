@@ -1,0 +1,25 @@
+.back_top,.bg-gradient,.home-bg,.btn-gradient,.features_border,.in_features,.bg-features{	
+	background: #000046; 
+	background: -webkit-linear-gradient(to right, #1CB5E0, #000046);  
+	background: linear-gradient(to right, #1CB5E0, #000046);
+}
+
+.section_title_icon,
+.btn-gradient:hover,
+.btn-gradient:focus,
+.btn-gradient:active,
+.btn-gradient.active,
+.btn-gradient.focus,
+.btn-gradient:active,
+.btn-gradient:focus,
+.btn-gradient:hover,
+.open>.dropdown-toggle.btn-gradient,
+.features_one .features_list .features_list_icon i,
+.work_icon i,.work_process .work_box .work_left::after,
+.work_process .work_box .work_right::after,
+.about_boxes .about_icon i,
+.features_one .features_icon {
+	background: #1CB5E0; 
+	background: -webkit-linear-gradient(to right, #000046, #1CB5E0);  
+	background: linear-gradient(to right, #000046, #1CB5E0);
+}
