@@ -2,67 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afc3b965-d12b-4321-8632-0e8c93ecafb5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/models/user.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/routes/api.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app/views/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/css/colors/dark-blue.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/css/colors/dark.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/css/colors/frost.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/css/colors/grandeur.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/css/colors/green.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/css/colors/sky.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/css/feathericon.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/css/materialdesignicons.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/fonts/cerebrisans-bold.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/fonts/cerebrisans-bold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/fonts/cerebrisans-light-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/fonts/cerebrisans-light.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/fonts/cerebrisans-medium.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/fonts/cerebrisans-medium.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/fonts/cerebrisans-regular.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/fonts/cerebrisans-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/fonts/cerebrisans-semibold.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/fonts/cerebrisans-semibold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/fonts/feathericon.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/fonts/feathericon.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/fonts/feathericon.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/fonts/feathericon.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/fonts/feathericond41d.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/fonts/materialdesignicons-webfont61e3.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/fonts/materialdesignicons-webfont61e3.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/fonts/materialdesignicons-webfont61e3.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/fonts/materialdesignicons-webfont61e3.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/fonts/materialdesignicons-webfontd41d.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/animation.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/features-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/features-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/features-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/hero-illustration.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/hit/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/hit/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/hit/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/hit/bg-pattern.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/logo-skill-geek.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/testi/testi-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/testi/testi-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/testi/testi-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/wave-mask.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/custom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/jquery.easing.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/jquery.simple-text-rotator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/particles.app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/particles.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/popper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/scrollspy.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/switcher.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/typed.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -75,11 +15,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="293">
               <caret line="86" column="90" selection-start-line="86" selection-start-column="90" selection-end-line="86" selection-end-column="90" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/css/bootstrap.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="5" column="72799" selection-start-line="5" selection-start-column="72799" selection-end-line="5" selection-end-column="72799" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -122,6 +80,7 @@
         <option value="$PROJECT_DIR$/public/app/views/index.html" />
         <option value="$PROJECT_DIR$/app/models/user.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assets/css/bootstrap.min.css" />
       </list>
     </option>
   </component>
@@ -149,8 +108,19 @@
         <subPane>
           <expand>
             <path>
-              <item name="SkillGeek" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SkillGeek" type="462c0819:PsiDirectoryNode" />
+              <item name="skill-geek.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skill-geek.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="skill-geek.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skill-geek.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="skill-geek.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skill-geek.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -160,6 +130,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -189,11 +160,12 @@
       <updated>1578374203617</updated>
       <workItem from="1578374204877" duration="8830000" />
       <workItem from="1579622006355" duration="325000" />
+      <workItem from="1592677007140" duration="211000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9155000" />
+    <option name="totallyTimeSpent" value="9366000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
@@ -226,48 +198,29 @@
     <entry file="file://$PROJECT_DIR$/public/assets/assets/images/home-bg.html" />
     <entry file="file://$PROJECT_DIR$/public/assets/assets/images/demo/1.png" />
     <entry file="file://$PROJECT_DIR$/public/app/views/register/register.html" />
-    <entry file="file://$PROJECT_DIR$/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="99" selection-start-line="19" selection-start-column="99" selection-end-line="19" selection-end-column="99" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/app/views/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1463">
-          <caret line="77" column="73" selection-start-line="77" selection-start-column="73" selection-end-line="77" selection-end-column="73" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="1170" column="13" selection-start-line="1170" selection-start-column="13" selection-end-line="1170" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/user.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-152">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/routes/api.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js" />
+    <entry file="file://$PROJECT_DIR$/public/app/views/index.html" />
+    <entry file="file://$PROJECT_DIR$/public/assets/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/app/models/user.js" />
+    <entry file="file://$PROJECT_DIR$/app/routes/api.js" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
           <caret line="86" column="90" selection-start-line="86" selection-start-column="90" selection-end-line="86" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="5" column="72799" selection-start-line="5" selection-start-column="72799" selection-end-line="5" selection-end-column="72799" />
         </state>
       </provider>
     </entry>
